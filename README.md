@@ -6,11 +6,11 @@ Bienvenido a mi repositorio personal de ejercicios de programación. Aquí docum
 
 | ID | Práctica | Descripción | Conceptos Clave |
 | :--- | :--- | :--- | :--- |
-| 01 | 🚗 [**Fábrica de Coches**](./01-FabricaCoches) | Gestión visual de stock de vehículos con límite de fabricación. | `Array estático`, `JOptionPane`, `Sobrecarga`. |
-| 02 | 🏀 [**Liga de Basket**](./02-LigaBasket) | Gestión de jugadores y árbitros en una misma lista. | `Polimorfismo`, `instanceof`, `Casting`. |
+| 01 | 🚗 [**Fábrica de Coches**](./05-FabricaCoches) | Gestión visual de stock de vehículos con límite de fabricación. | `Array estático`, `JOptionPane`, `Sobrecarga`. |
+| 02 | 🏀 [**Liga de Basket**](./04-LigaBasket) | Gestión de jugadores y árbitros en una misma lista. | `Polimorfismo`, `instanceof`, `Casting`. |
 | 03 | 🎰 [**Lotería Primitiva**](./03-Loteria) | Simulación automática de sorteos y comprobación de apuestas y premios. | `Random`, `Lógica de comparación`, `Objetos como parámetros`. |
-| 04 | 🎓 [**Gestión de Alumnos**](./04-GestionAlumnos) | Sistema CRUD (Altas, Bajas y Consultas) de alumnos. | `ArrayList`, `Try-Catch`, `Búsqueda por ID`. |
-| 05 | 🏦 [**Banco Simple**](./05-Banco) | Simulador de cajero con autenticación y gestión de saldo. | `Array de Objetos`, `Login/Seguridad`, `Validaciones`. |
+| 04 | 🎓 [**Gestión de Alumnos**](./02-GestionAlumnos) | Sistema CRUD (Altas, Bajas y Consultas) de alumnos. | `ArrayList`, `Try-Catch`, `Búsqueda por ID`. |
+| 05 | 🏦 [**Banco Simple**](./01-Banco) | Simulador de cajero con autenticación y gestión de saldo. | `Array de Objetos`, `Login/Seguridad`, `Validaciones`. |
 
 ## 📚 Detalles de las Prácticas
 
