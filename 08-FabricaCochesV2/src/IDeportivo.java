@@ -1,0 +1,3 @@
+interface IDeportivo {
+	void turbo();
+}

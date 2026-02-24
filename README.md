@@ -6,11 +6,14 @@ Bienvenido a mi repositorio personal de ejercicios de programación. Aquí docum
 
 | ID | Práctica | Descripción | Conceptos Clave |
 | :--- | :--- | :--- | :--- |
-| 01 | 🚗 [**Fábrica de Coches**](./05-FabricaCoches) | Gestión visual de stock de vehículos con límite de fabricación. | `Array estático`, `JOptionPane`, `Sobrecarga`. |
-| 02 | 🏀 [**Liga de Basket**](./04-LigaBasket) | Gestión de jugadores y árbitros en una misma lista. | `Polimorfismo`, `instanceof`, `Casting`. |
-| 03 | 🎰 [**Lotería Primitiva**](./03-Loteria) | Simulación automática de sorteos y comprobación de apuestas y premios. | `Random`, `Lógica de comparación`, `Objetos como parámetros`. |
-| 04 | 🎓 [**Gestión de Alumnos**](./02-GestionAlumnos) | Sistema CRUD (Altas, Bajas y Consultas) de alumnos. | `ArrayList`, `Try-Catch`, `Búsqueda por ID`. |
-| 05 | 🏦 [**Banco Simple**](./01-Banco) | Simulador de cajero con autenticación y gestión de saldo. | `Array de Objetos`, `Login/Seguridad`, `Validaciones`. |
+| 08 | 🏎️ [**Fabrica de Coches V2**](./08-FabricaCochesV2) | Arraylist, herencia, casting... | `Getters-Setters`, `Herencia`, `Extends-Includes`. |
+| 07 | 📚 [**Material Bibliográfico**](./07-MaterialBibliográfico) | Arraylist, herencia, casting... | `Getters-Setters`, `Herencia`, `Extends-Includes`. |
+| 06 | 👨🏻‍🎤 [**Seres Cantores**](./06-SeresCantores) | Inicios de herencia y polimorfismo. | `Getters-Setters`, `Herencia`, `Extends-Includes`. |
+| 05 | 🚗 [**Fábrica de Coches**](./05-FabricaCoches) | Gestión visual de stock de vehículos con límite de fabricación. | `Array estático`, `JOptionPane`, `Sobrecarga`. |
+| 04 | 🏀 [**Liga de Basket**](./04-LigaBasket) | Gestión de jugadores y árbitros en una misma lista. | `Polimorfismo`, `instanceof`, `Casting`. |
+| 03 | 🎰 [**Lotería**](./03-Loteria) | Simulación automática de sorteos y comprobación de apuestas y premios. | `Random`, `Lógica de comparación`, `Objetos como parámetros`. |
+| 02 | 🎓 [**Gestión de Alumnos**](./02-GestionAlumnos) | Sistema CRUD (Altas, Bajas y Consultas) de alumnos. | `ArrayList`, `Try-Catch`, `Búsqueda por ID`. |
+| 01 | 🏦 [**Banco Simple**](./01-Banco) | Simulador de cajero con autenticación y gestión de saldo. | `Array de Objetos`, `Login/Seguridad`, `Validaciones`. |
 
 ## 📚 Detalles de las Prácticas
 
@@ -37,7 +40,7 @@ Simulador bancario limitado a 5 cuentas. Incluye un sistema de seguridad donde e
 ## 🛠️ Tecnologías y Herramientas
 * **Lenguaje:** Java (JDK 8+)
 * **Entrada de datos:** `Scanner` (Consola) y `JOptionPane` (Gráfico simple).
-* **Estructuras de datos:** Arrays fijos (`[]`) y Listas dinámicas (`ArrayList`).
+* **Estructuras de datos:** Arrays fijos (`[]`) y Arrays dinámicos (`ArrayList`).
 
 ---
 **Autor:** Carlos Manzano Regalado
