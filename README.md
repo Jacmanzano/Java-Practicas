@@ -6,6 +6,7 @@ Bienvenido a mi repositorio personal de ejercicios de programación. Aquí docum
 
 | ID | Práctica | Descripción | Conceptos Clave |
 | :--- | :--- | :--- | :--- |
+| 09 | 🏨 [**Gestion Hotel**](./09-GestionHotel) | WindowBuilder, Constructores, Arraylist, herencia, casting... | `WindowBuilder`, `Herencia`, `Arraylist`. |
 | 08 | 🏎️ [**Fabrica de Coches V2**](./08-FabricaCochesV2) | Arraylist, herencia, casting... | `Getters-Setters`, `Herencia`, `Extends-Includes`. |
 | 07 | 📚 [**Material Bibliográfico**](./07-MaterialBibliográfico) | Arraylist, herencia, casting... | `Getters-Setters`, `Herencia`, `Extends-Includes`. |
 | 06 | 👨🏻‍🎤 [**Seres Cantores**](./06-SeresCantores) | Inicios de herencia y polimorfismo. | `Getters-Setters`, `Herencia`, `Extends-Includes`. |
@@ -36,11 +37,6 @@ Aplicación completa de consola para gestionar un grupo escolar. Permite dar de 
 ### 5. Banco
 Simulador bancario limitado a 5 cuentas. Incluye un sistema de seguridad donde es necesario introducir la contraseña correcta para operar (depositar/retirar).
 * **Destacado:** Lógica de validación de saldo (no se puede retirar más de lo que se tiene) y búsqueda de objetos por atributo (contraseña).
-
-## 🛠️ Tecnologías y Herramientas
-* **Lenguaje:** Java (JDK 8+)
-* **Entrada de datos:** `Scanner` (Consola) y `JOptionPane` (Gráfico simple).
-* **Estructuras de datos:** Arrays fijos (`[]`) y Arrays dinámicos (`ArrayList`).
 
 ---
 **Autor:** Carlos Manzano Regalado
